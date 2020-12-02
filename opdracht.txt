@@ -1,0 +1,3 @@
+Een kapper genaamd Jan vraagt om je hulp. Hij is erg druk geworden en wil graag een webapplicatie voor het inplannen, bewerken en verwijderen van zijn afspraken.
+
+Ook wil hij notities bijhouden voor de wensen en behandelingen van zijn klanten.
